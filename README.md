@@ -38,9 +38,20 @@ As this page works with localStorage, don't you be worry if your cards is reload
 If you want to download this project, you'll need to:
 
 1. Clone all files in this repository
-2. Open it and run 'npm install' in your terminal. One this is done, you will have created a new_modules folder that will allow you to use the page.
-3. Run 'npm-start' in your terminal This will open the page in your predetermined browser.
-4. You can now play, my minion!
+2. Open it and run `npm install` in your terminal. One this is done, you will have created a new_modules folder that will allow you to use the page.
+3. Run `npm-start` in your terminal This will open the page in your predetermined browser.
+
+package.json has defined all dependencies, so will be able to run it without any issues.
+
+If you want to deploy the code into GitHub Pages, once the code is done and pushed run `npm run docs` and add, commit and push the updated docs folder.
+
+You can now play, my minion!
+
+## Demo
+You can see the result at [GitHub Pages](https://lvaldenebro.github.io/minion-card-generator/).
+
+## License
+All this code is released into the public domain.
 
 ## Credits
 
